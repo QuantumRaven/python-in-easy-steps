@@ -16,4 +16,4 @@ print('\nDefault Order:\t', c, '%', a, '+', b, '=', c % a + b)
 print('\nForced Order:\t', c, '% (', a, '+', b, ') =', c % (a + b))
 
 print('\nDefault Order', c, '**', a, '+', b, '=', c ** a + b)
-print('\nDefault Order', c, '**(', a, '+', b,') =', c ** (a + b))
+print('\nDefault Order', c, '** (', a, '+', b,') =', c ** (a + b))
